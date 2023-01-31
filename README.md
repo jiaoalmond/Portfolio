@@ -1,5 +1,3 @@
-# Hey Everyone, here is my Portfolio site:
+# Portfolio
 
-https://jiaoalmond.github.io/Portfolio/
-
-# Check it now!
+working on it
